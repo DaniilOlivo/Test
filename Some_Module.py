@@ -4,4 +4,7 @@ class Hello:
   
   def say(self):
     print("Hello " + self.name)
+
+  def ask_name(self):
+    self.name = input("Input name: ")
     
