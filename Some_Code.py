@@ -4,11 +4,10 @@ from Some_Module import *
 I = Hello("Daniil")
 
 I.ask_name()
-I.say()
+I.many_hello(5)
 
 if I.name == "Daniil":
     print("Yo bro, me too Daniil")
 
-time.sleep(5000)
-
+time.sleep(5)
 
