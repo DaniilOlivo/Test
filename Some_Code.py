@@ -1,3 +1,7 @@
+"""
+Это программа бесполезная, как и твоя жизнь
+"""
+
 import time
 from Some_Module import *
 
