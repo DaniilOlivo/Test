@@ -11,4 +11,7 @@ class Hello:
   def many_hello(self, count):
     for i in range(count):
       self.say()
+
+  def abyyyyyyy(self):
+    print('Abyyyyyyyyyyyyyy!')
     
