@@ -1,3 +1,3 @@
 # Test
 
-Этот репозиторий является тестовым. Он нужел для обучению Git, в частности взаимодействию с удаленными репозиториями. 
+This is a test repository. I need him for training and testing
